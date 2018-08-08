@@ -1,7 +1,7 @@
 package onenetsolution.com.ocrdemo.constants;
 
 /**
- * Created by rahulk on 12/27/2016.
+ * Created by shekhark on 12/27/2016.
  */
 
 public class AppConstants {
